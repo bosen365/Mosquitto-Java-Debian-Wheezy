@@ -1,5 +1,7 @@
 # Mosquitto-Java-Debian-Wheezy
 
+**Please note: Please read the whole Readme before running the installer script.**
+
 ## Install Mosquitto
 ```
 $ sudo chmod +x mosquitto_installer.sh
