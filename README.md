@@ -35,3 +35,11 @@ make run_sub
 make run_pub
 ```
 
+## Links
+The actuall code is from https://github.com/tgrall/mqtt-sample-java
+
+### Resources
+- https://mosquitto.org/download/
+- https://mosquitto.org/2013/01/mosquitto-debian-repository/
+- http://tgrall.github.io/blog/2017/01/02/getting-started-with-mqtt/
+- https://github.com/eclipse/paho.mqtt.java
